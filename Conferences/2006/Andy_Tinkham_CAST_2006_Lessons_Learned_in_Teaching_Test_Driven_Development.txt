@@ -1,0 +1,6 @@
+Slides for "Lessons Learned in Teaching Test-Driven Development" are not available.
+However, Andy Tinkham believes he based slides and talk on another talk, the one
+he gave with Cem Kaner on Agile Conference in 2005.
+
+Sides for THAT talk are available here, in file named
+Andy_Tinkham_Cem_Kaner_Agile_2005_Experiences_Teaching_a_Course_in_Programmer_Testing.pdf .
